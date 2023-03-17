@@ -1,7 +1,5 @@
-articles
-========
-
-Articles Of Association 
+57 North Hacklab Ltd Articles Of Association
+============================================
 
 The git repository contains the Articles Of Association for 57 North Hacklab Ltd (https://www.57north.org.uk/).  They can be adjusted as a result of an AGM.
 
